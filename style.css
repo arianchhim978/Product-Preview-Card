@@ -1,0 +1,11 @@
+#block1{
+    display: flex;
+    float:left; 
+    justify-content: center;
+    flex-direction: row;
+
+}#image1{
+    height:500px;
+    width: 400px; 
+ 
+}
