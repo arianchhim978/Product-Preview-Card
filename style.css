@@ -24,23 +24,28 @@
 
     .h1 {
       color: hsl(0, 0%, 90%);
+      margin-right:150px;
+      font-size: 25px;
       
     }
 
     #block2 {
       text-align: center;
       margin-top: 10px;
-    }s{
+    }strike{
         text-decoration: line-through;
-        color:red; 
+        font-size:15px; 
+        color:rgb(62, 62, 62);
        
     }
   #green{
    color:#73a793;
   }button{
-    padding:10px 80px; 
+    padding:15px 80px; 
     border:none;
     background-color:#73a793;
     color:white; 
     border-radius: 8px;
+  }#h1{
+    margin-right:120px;
   }
